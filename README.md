@@ -11,6 +11,10 @@ This analysis was conducted to identify the factors that influence restaurant su
 
 The findings reveal that consumer demand is heavily concentrated around a small number of cuisine types, while restaurant supply is more fragmented across many categories. Mexican cuisine dominates customer preference, creating significant market opportunities. The analysis also shows that restaurant ratings vary across cuisines, suggesting that certain cuisine categories consistently deliver stronger customer experiences than others.
 
+## Methodology Note:
+
+The average rating of 1.11 reflects the structure of the public dataset used for this analysis and should not be interpreted as an industry benchmark for restaurant quality. Ratings within the dataset are concentrated within a relatively narrow range, making comparative analysis more meaningful than the absolute rating value itself. As a result, the analysis focuses on relative performance across restaurants and cuisines, consumer preferences, and demand-supply dynamics rather than using the average rating as a standalone measure of quality.
+
 ## 1. Key Performance Indicators (KPIs)
 
 | KPI | Value |
